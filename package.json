@@ -1,0 +1,17 @@
+{
+  "name": "m7-abp_2",
+  "version": "1.0.0",
+  "description": "Ingresa por medio de la clase Pool un nuevo registro imprimiendo por consola el resultado de la inserción de la consulta, entrega los valores al query mediante un array a la función para que sea una consulta parametrizada",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0"
+  }
+}
